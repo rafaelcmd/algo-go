@@ -9,6 +9,8 @@ func main() {
 		{-33, 17},
 	}
 
+	//Optimal Space & Time Complexity
+	//O(w * h) time | O(w * h) space - where w is the width of the matrix and h is the height
 	TransposeMatrix(matrix)
 }
 
